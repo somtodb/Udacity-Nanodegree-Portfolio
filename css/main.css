@@ -1,0 +1,81 @@
+/* -----------------------------------------
+    - style by Somtochukwu Dibie
+   ----------------------------------------- */
+body {
+	font-family: 'palanquin', sans-serif;
+	text-align: center;
+}
+
+/* Header */
+header {
+	padding-top: 2em;
+}
+
+header .logo {
+	float: left;
+	padding-top: 1.2em;
+	width: 5%;
+}
+
+header .person-info {
+	text-align: right;
+}
+
+header .person-info h1, p {
+	text-transform: uppercase;
+	color: #5f9ea0;
+}
+
+@media screen and (max-width: 500px) {
+ header .person-info h1 {
+   font-size: 2em;
+  }
+}
+
+.first-project {
+	border-top: 0.25em solid #7d97ad;
+}
+
+.first-project img {
+	padding-top: 1em;
+	width: 100%;
+}
+
+.featured-work {
+	padding-bottom: 2em;
+}
+
+.featured-work h2 {
+	text-align: left;
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	color: #7d97ad;
+}
+
+.featured-work ul {
+	margin-left: -3.5em;
+}
+
+.featured-work ul li {
+	list-style: none;
+}
+
+.featured-work .projects {
+	text-align: center;
+	box-shadow: 0em 0em 2em #888888;
+	margin: 1.5em;
+	padding-bottom: 1em;
+}
+
+.projects h3 {
+	font-size: 1.5em;
+}
+
+.projects img {
+	max-width: 100%;
+	padding: 1em;
+}
+
+.projects h3, a {
+	max-width: 100%;
+}
