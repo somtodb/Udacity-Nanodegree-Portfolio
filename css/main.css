@@ -61,7 +61,7 @@ header .person-info h1, p {
 
 .featured-work .projects {
 	text-align: center;
-	box-shadow: 0em 0em 2em #888888;
+	box-shadow: 0 0 2em #888888;
 	margin: 1.5em;
 	padding-bottom: 1em;
 }
