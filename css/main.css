@@ -6,7 +6,6 @@ body {
 	text-align: center;
 }
 
-/* Header */
 header {
 	padding-top: 2em;
 }
@@ -23,7 +22,7 @@ header .person-info {
 
 header .person-info h1, p {
 	text-transform: uppercase;
-	color: #5f9ea0;
+	color: #2d3c49;
 }
 
 @media screen and (max-width: 500px) {
@@ -68,7 +67,7 @@ header .person-info h1, p {
 }
 
 .projects h3 {
-	font-size: 1.5em;
+	color: #2d3c49;
 }
 
 .projects img {
